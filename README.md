@@ -1,8 +1,8 @@
-<H3>Enter Name: SELVAGANESH R</H3>
-<H3>Enter Register No: 212223230200</H3>
+<H3>Name: SELVAGANESH R V</H3>
+<H3>Register No: 212223230200</H3>
 <H3>Experiment 2</H3>
-<H3>Date: </H3>
-<h1 align =center>EXPERIMENT-2 : Implementation of Exact Inference Method of Bayesian Network</h1>
+<H3>Date: 28.04.25</H3>
+<h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
@@ -19,6 +19,8 @@ Step 7: Print the results.<br>
 
 ## Program :
 ```python
+#Developed By: Rahul V
+#Reg No: 212223240133
 # Importing Library
 from pgmpy.models import DiscreteBayesianNetwork
 from pgmpy.inference import VariableElimination
@@ -92,7 +94,10 @@ print(res2)
 
 ## Output :
 
-![alt text](EXP-2-1.png)
+![image](https://github.com/user-attachments/assets/46f89ce6-d88e-4d84-acc9-65ec9b1d21e2)
+
+![image](https://github.com/user-attachments/assets/d76d926b-d9cb-4d1f-adcd-f948ba033709)
+
 
 ## Result :
 Thus, Bayesian Inference was successfully determined using Variable Elimination Method
